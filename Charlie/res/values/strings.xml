@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Charlie</string>
+    <string name="action_settings">Settings</string>
+    <string name="motd">Charlie loves you!</string>
+    <string name="vid1">Charlie the Unicorn 1</string>
+    <string name="vid2">Charlie the Unicorn 2</string>
+    <string name="vid3">Charlie the Unicorn 3</string>
+    <string name="vid4">Charlie the Unicorn 4</string>
+    <string name="title_activity_video">Video</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

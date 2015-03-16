@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"         
+        android:text="@string/motd"
+        />            
+    <Button 
+        android:id="@+id/btnVid1"  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:text="@string/vid1"/>
+    
+    <Button 
+        android:id="@+id/btnVid2"  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:text="@string/vid2"/>
+    
+     <Button 
+        android:id="@+id/btnVid3"  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:text="@string/vid3"/>
+     
+      <Button 
+        android:id="@+id/btnVid4"  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:text="@string/vid4"/>
+
+</LinearLayout>
